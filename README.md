@@ -9,9 +9,9 @@
 ## Part 01 C언어의 기본
 
 - [X] <b>Chapter 1</b> - 이것이 C언어다.
-- [ ] <b>Chapter 2</b> - 프로그램의 기본구성
-- [ ] <b>Chapter 3</b> - 변수와 연산자
-- [ ] <b>Chapter 4</b> - 데이터 표현방식의 이해
+- [X] <b>Chapter 2</b> - 프로그램의 기본구성
+- [X] <b>Chapter 3</b> - 변수와 연산자
+- [X] <b>Chapter 4</b> - 데이터 표현방식의 이해
 - [ ] <b>Chapter 5</b> - 상수와 기본 자료형
 - [ ] <b>Chapter 6</b> - printf 함수와 scanf 함수 정리하기
 - [ ] <b>Chapter 7</b> - 반복실행을 명령하는 반복문
