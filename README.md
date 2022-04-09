@@ -16,7 +16,7 @@
 - [X] <b>Chapter 6</b> - printf 함수와 scanf 함수 정리하기
 - [X] <b>Chapter 7</b> - 반복실행을 명령하는 반복문
 - [X] <b>Chapter 8</b> - 조건에 따른 흐름의 분기 
-- [ ] <b>Chapter 9</b> - C언어의 핵심! 함수!
+- [X] <b>Chapter 9</b> - C언어의 핵심! 함수!
 - [ ] <b>Chapter 10</b> - 도전! 프로그래밍1
  
 ## Part 02 포인터와 배열의 시작
