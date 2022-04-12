@@ -29,7 +29,7 @@
 
 ## Part 03 포인터와 배열의 완성
 
-- [ ] <b>Chapter 16</b> - 다차원 배열
+- [X] <b>Chapter 16</b> - 다차원 배열
 - [ ] <b>Chapter 17</b> - 포인터의 포인터
 - [ ] <b>Chapter 18</b> - 다차원 배열과 포인터의 관계
 - [ ] <b>Chapter 19</b> - 함수 포인터와 void 포인터

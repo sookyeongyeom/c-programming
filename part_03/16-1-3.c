@@ -3,8 +3,8 @@
 int main()
 {
     int arr[5][5], score, stu_sum, sub_sum, total_sum;
-    char *subject[] = {"국어", "영어", "수학", "국사"};
     char *student[] = {"철희", "철수", "영희", "영수"};
+    char *subject[] = {"국어", "영어", "수학", "국사"};
 
     for (int i = 0; i < 4; i++)
     {
