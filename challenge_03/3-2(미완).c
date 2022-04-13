@@ -30,7 +30,6 @@ int main()
             arr[5 - i][0] = i + 15;
         }
     }
-
     showArr(arr);
 
     return 0;
