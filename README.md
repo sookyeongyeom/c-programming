@@ -33,7 +33,7 @@
 - [X] <b>Chapter 17</b> - 포인터의 포인터
 - [X] <b>Chapter 18</b> - 다차원 배열과 포인터의 관계
 - [X] <b>Chapter 19</b> - 함수 포인터와 void 포인터
-- [ ] <b>Chapter 20</b> - 도전! 프로그래밍3
+- [X] <b>Chapter 20</b> - 도전! 프로그래밍3
 
 ## Part 04 C언어의 깊은 이해
 
