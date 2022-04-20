@@ -12,8 +12,8 @@ int main()
         ch -= 32;
     else
     {
-        printf("알파벳이 아닙니다.");
-        return 0;
+        puts("알파벳이 아닙니다.");
+        return -1;
     }
 
     putchar(ch);
