@@ -21,7 +21,7 @@ void RectangleArea(Rectangle rect)
 
 int main()
 {
-    Rectangle rect = {{0, 100}, {100, 0}}; // 문제 오류 있음
+    Rectangle rect = {{0, 100}, {100, 0}}; // 좌상단, 우하단
 
     RectangleArea(rect);
 

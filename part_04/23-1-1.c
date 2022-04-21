@@ -8,15 +8,19 @@ typedef struct
 
 void SwapPoint(Point *ptr1, Point *ptr2)
 {
-    int temp;
+    Point temp = *ptr1;
+    *ptr1 = *ptr2;
+    *ptr2 = temp;
 
-    temp = ptr1->xpos;
-    ptr1->xpos = ptr2->xpos;
-    ptr2->xpos = temp;
+    // int temp;
 
-    temp = ptr1->ypos;
-    ptr1->ypos = ptr2->ypos;
-    ptr2->ypos = temp;
+    // temp = ptr1->xpos;
+    // ptr1->xpos = ptr2->xpos;
+    // ptr2->xpos = temp;
+
+    // temp = ptr1->ypos;
+    // ptr1->ypos = ptr2->ypos;
+    // ptr2->ypos = temp;
 }
 
 int main()
