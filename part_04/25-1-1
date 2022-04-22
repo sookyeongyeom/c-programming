@@ -1,0 +1,5 @@
+- 스택 쌓임
+num1 → func1() 매개변수 n → num2 → func2() 매개변수 n → num3
+
+- 스택 소멸됨
+num3 → func2() 매개변수 n → num2 → func1() 매개변수 n → num1
