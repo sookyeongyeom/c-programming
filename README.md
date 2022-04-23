@@ -47,5 +47,5 @@ Part 04 ▶ 22.04.20 일 - 22.04.21 월
 - [X] <b>Chapter 24</b> - 파일 입출력
 - [X] <b>Chapter 25</b> - 메모리 관리와 메모리의 동적 할당
 - [X] <b>Chapter 26</b> - 매크로와 선행처리기(Preprocessor)
-- [ ] <b>Chapter 27</b> - 파일의 분할과 헤더파일의 디자인
+- [X] <b>Chapter 27</b> - 파일의 분할과 헤더파일의 디자인
 - [ ] <b>Chapter 28</b> - 도전! 프로그래밍4
