@@ -49,7 +49,7 @@ int main()
     char *str;
 
     printf("문자열의 길이 = "), scanf("%d", &max);
-    getchar(); // gets() 사용을 위해 입력 버퍼에 남은 \n 비워주기
+    getchar(); // scanf는 입력 버퍼에 \n을 남기므로, 이후 gets() 사용을 위해 입력 버퍼에 남은 \n 비워주기
     str = ReadLine(max);
     PutBackward(str);
 
